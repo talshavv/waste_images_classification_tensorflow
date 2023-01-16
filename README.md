@@ -9,7 +9,7 @@ We wanted to use these capabilities, and leverage them to further increase globa
 Therefore, we tried to built a model that can classify between different sorts of waste.
 
 
----How we did it---
+----How we did it----
 
 We worked with a database of 22.000 pictures, that were divided into organic and recyclable waste. 
 
@@ -24,7 +24,7 @@ With that CNN model, we reached an accuracy of 92%.
 That means we would be able to capture 92% of waste that needs to be recycled.
 
 
----Conclusions---
+----Conclusions----
 
 Due to the fact that our project and research were conducted in a limited-time environment there are more aspects that could be tested out. 
 
