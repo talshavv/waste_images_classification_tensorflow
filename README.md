@@ -11,15 +11,15 @@ Therefore, we tried to built a model that can classify between different sorts o
 
 ----How we did it----
 
-We worked with a database of 22.000 pictures, that were divided into organic and recyclable waste. 
+We worked with a database of 22.000 pictures that were divided into organic and recyclable waste. 
 
 The dataset we used can be found here: https://www.kaggle.com/datasets/techsash/waste-classification-data
 
-Then we used a CNN model. It's a type of deep-learning neural network, that is designed to process data.
+Then we used a CNN model. It's a type of deep-learning neural network, which is designed to process data.
 
-It consists of multiple layers, that learn features about the images and classify them.
+It consists of multiple layers that learn features about the images and classify them.
 
-With that CNN model, we reached an accuracy of 92%.
+With that CNN model we reached an accuracy of 92%.
 
 That means we would be able to capture 92% of waste that needs to be recycled.
 
